@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25376'
     url: http://www.gutenberg.org/2009/agents/25376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22520#Cattle-and-Cattle-breeders
 gutenberg_issued: '2007-09-05'
 gutenberg_type: Text
 identifiers:
